@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\7.ReserveDigits\bin\Debug\7.ReserveDigits.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\7.ReserveDigits\bin\Debug\7.ReserveDigits.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\7.ReserveDigits\bin\Debug\7.ReserveDigits.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\7.ReserveDigits\obj\Debug\7.ReserveDigits.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\7.ReserveDigits\obj\Debug\7.ReserveDigits.pdb

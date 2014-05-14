@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\bin\Debug\TheyAreGreen.exe.config
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\obj\Debug\TheyAreGreen.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\bin\Debug\TheyAreGreen.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\bin\Debug\TheyAreGreen.pdb
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\obj\Debug\TheyAreGreen.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\TheyAreGreen\obj\Debug\TheyAreGreen.pdb

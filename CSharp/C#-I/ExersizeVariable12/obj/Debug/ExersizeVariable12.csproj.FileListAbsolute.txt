@@ -1,0 +1,5 @@
+C:\DataWin8\CSharp\SecondHomeworkVariable\ExersizeVariable12\bin\Debug\ExersizeVariable12.exe.config
+C:\DataWin8\CSharp\SecondHomeworkVariable\ExersizeVariable12\bin\Debug\ExersizeVariable12.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\ExersizeVariable12\bin\Debug\ExersizeVariable12.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\ExersizeVariable12\obj\Debug\ExersizeVariable12.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\ExersizeVariable12\obj\Debug\ExersizeVariable12.pdb

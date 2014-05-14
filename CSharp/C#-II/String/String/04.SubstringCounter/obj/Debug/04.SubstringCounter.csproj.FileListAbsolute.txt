@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\04.SubstringCounter\bin\Debug\04.SubstringCounter.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\04.SubstringCounter\bin\Debug\04.SubstringCounter.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\04.SubstringCounter\bin\Debug\04.SubstringCounter.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\04.SubstringCounter\obj\Debug\04.SubstringCounter.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\04.SubstringCounter\obj\Debug\04.SubstringCounter.pdb

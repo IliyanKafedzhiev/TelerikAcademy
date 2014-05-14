@@ -1,0 +1,6 @@
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\bin\Debug\MaximalSequenceInArray.exe.config
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\bin\Debug\MaximalSequenceInArray.exe
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\bin\Debug\MaximalSequenceInArray.pdb
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\obj\Debug\MaximalSequenceInArray.csprojResolveAssemblyReference.cache
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\obj\Debug\MaximalSequenceInArray.exe
+C:\Users\kafed_000\Documents\My Box Files\Iliqn'sData\Decktop\CSharp\Arrays\MaximalSequenceInArray\obj\Debug\MaximalSequenceInArray.pdb

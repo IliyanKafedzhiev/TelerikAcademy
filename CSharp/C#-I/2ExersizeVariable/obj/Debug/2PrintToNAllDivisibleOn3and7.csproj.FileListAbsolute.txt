@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\bin\Debug\2ExersizeVariable.exe.config
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\obj\Debug\2ExersizeVariable.exe
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\obj\Debug\2ExersizeVariable.pdb
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\bin\Debug\2ExersizeVariable.exe
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\bin\Debug\2ExersizeVariable.pdb
+C:\DataWin8\CSharp\Homework\2ExersizeVariable\obj\Debug\2PrintToNAllDivisibleOn3and7.csprojResolveAssemblyReference.cache

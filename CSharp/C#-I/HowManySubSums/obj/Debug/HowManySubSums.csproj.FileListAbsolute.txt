@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\HowManySubSums\bin\Debug\HowManySubSums.exe.config
+C:\DataWin8\CSharp\Homework\HowManySubSums\obj\Debug\HowManySubSums.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\HowManySubSums\bin\Debug\HowManySubSums.exe
+C:\DataWin8\CSharp\Homework\HowManySubSums\bin\Debug\HowManySubSums.pdb
+C:\DataWin8\CSharp\Homework\HowManySubSums\obj\Debug\HowManySubSums.exe
+C:\DataWin8\CSharp\Homework\HowManySubSums\obj\Debug\HowManySubSums.pdb

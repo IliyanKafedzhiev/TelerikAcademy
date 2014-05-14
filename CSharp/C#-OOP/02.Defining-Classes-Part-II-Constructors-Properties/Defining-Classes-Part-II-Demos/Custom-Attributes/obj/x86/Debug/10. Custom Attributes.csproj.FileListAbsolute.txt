@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\TelerikAcademy\CSharp\C#-OOP\02.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\TelerikAcademy\CSharp\C#-OOP\02.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\TelerikAcademy\CSharp\C#-OOP\02.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\10. Custom Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\TelerikAcademy\CSharp\C#-OOP\02.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\TelerikAcademy\CSharp\C#-OOP\02.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.pdb

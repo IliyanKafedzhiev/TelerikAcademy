@@ -1,0 +1,7 @@
+C:\Users\Iliyan\Desktop\04.Objects\02.Human\bin\Debug\02.Human.exe.config
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\bin\Debug\02.Human.exe.config
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\bin\Debug\02.Human.exe
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\bin\Debug\02.Human.pdb
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\obj\Debug\02.Human.exe
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\02.Human\obj\Debug\02.Human.pdb

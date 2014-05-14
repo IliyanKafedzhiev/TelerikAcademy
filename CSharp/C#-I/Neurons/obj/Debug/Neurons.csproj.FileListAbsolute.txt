@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\Neurons\bin\Debug\Neurons.exe.config
+C:\DataWin8\CSharp\Homework\Neurons\bin\Debug\Neurons.exe
+C:\DataWin8\CSharp\Homework\Neurons\bin\Debug\Neurons.pdb
+C:\DataWin8\CSharp\Homework\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\Neurons\obj\Debug\Neurons.exe
+C:\DataWin8\CSharp\Homework\Neurons\obj\Debug\Neurons.pdb

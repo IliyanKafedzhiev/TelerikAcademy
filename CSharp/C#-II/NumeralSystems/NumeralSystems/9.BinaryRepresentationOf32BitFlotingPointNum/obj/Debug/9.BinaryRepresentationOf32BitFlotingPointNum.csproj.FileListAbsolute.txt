@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\bin\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\obj\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\bin\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\bin\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\obj\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\9.BinaryRepresentationOf32BitFlotingPointNum\obj\Debug\9.BinaryRepresentationOf32BitFlotingPointNum.pdb

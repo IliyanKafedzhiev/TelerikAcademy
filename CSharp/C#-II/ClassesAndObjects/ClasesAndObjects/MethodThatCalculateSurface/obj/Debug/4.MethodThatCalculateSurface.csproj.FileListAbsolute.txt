@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\bin\Debug\MethodThatCalculateSurface.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\bin\Debug\MethodThatCalculateSurface.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\bin\Debug\MethodThatCalculateSurface.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\obj\Debug\4.MethodThatCalculateSurface.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\obj\Debug\MethodThatCalculateSurface.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\MethodThatCalculateSurface\obj\Debug\MethodThatCalculateSurface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\bin\Debug\ML.exe.config
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\bin\Debug\ML.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\bin\Debug\ML.pdb
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\obj\Debug\ML.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\ML\obj\Debug\ML.pdb

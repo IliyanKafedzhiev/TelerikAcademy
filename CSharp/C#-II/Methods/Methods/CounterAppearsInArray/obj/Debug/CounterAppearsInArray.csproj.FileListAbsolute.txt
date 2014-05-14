@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\bin\Debug\CounterAppearsInArray.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\obj\Debug\CounterAppearsInArray.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\bin\Debug\CounterAppearsInArray.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\bin\Debug\CounterAppearsInArray.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\obj\Debug\CounterAppearsInArray.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\CounterAppearsInArray\obj\Debug\CounterAppearsInArray.pdb

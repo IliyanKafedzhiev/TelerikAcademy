@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\bin\Debug\08.Matrix.exe.config
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\obj\Debug\08.Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\bin\Debug\08.Matrix.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\bin\Debug\08.Matrix.pdb
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\obj\Debug\08.Matrix.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\08.Matrix\obj\Debug\08.Matrix.pdb

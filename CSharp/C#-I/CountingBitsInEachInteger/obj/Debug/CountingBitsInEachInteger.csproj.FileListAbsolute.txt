@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\bin\Debug\CountingBitsInEachInteger.exe.config
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\bin\Debug\CountingBitsInEachInteger.exe
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\bin\Debug\CountingBitsInEachInteger.pdb
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\obj\Debug\CountingBitsInEachInteger.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\obj\Debug\CountingBitsInEachInteger.exe
+C:\DataWin8\CSharp\Homework\CountingBitsInEachInteger\obj\Debug\CountingBitsInEachInteger.pdb

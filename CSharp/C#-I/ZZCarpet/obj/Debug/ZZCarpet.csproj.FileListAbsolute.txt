@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\ZZCarpet\bin\Debug\ZZCarpet.exe.config
+C:\DataWin8\CSharp\Homework\ZZCarpet\bin\Debug\ZZCarpet.exe
+C:\DataWin8\CSharp\Homework\ZZCarpet\bin\Debug\ZZCarpet.pdb
+C:\DataWin8\CSharp\Homework\ZZCarpet\obj\Debug\ZZCarpet.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\ZZCarpet\obj\Debug\ZZCarpet.exe
+C:\DataWin8\CSharp\Homework\ZZCarpet\obj\Debug\ZZCarpet.pdb

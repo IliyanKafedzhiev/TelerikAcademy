@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\bin\Debug\Zerg!!!.exe.config
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\bin\Debug\Zerg!!!.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\bin\Debug\Zerg!!!.pdb
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\obj\Debug\Zerg!!!.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\obj\Debug\Zerg!!!.exe
+C:\Users\Iliyan\Desktop\c#\ConsoleJustification\Zerg!!!\obj\Debug\Zerg!!!.pdb

@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\bin\Debug\QCoordinateSystem.exe.config
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\bin\Debug\QCoordinateSystem.exe
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\bin\Debug\QCoordinateSystem.pdb
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\obj\Debug\QCoordinateSystem.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\obj\Debug\QCoordinateSystem.exe
+C:\DataWin8\CSharp\Homework\QCoordinateSystem\obj\Debug\QCoordinateSystem.pdb

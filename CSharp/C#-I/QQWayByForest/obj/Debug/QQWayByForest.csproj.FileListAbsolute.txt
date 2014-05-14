@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\QQWayByForest\bin\Debug\QQWayByForest.exe.config
+C:\DataWin8\CSharp\Homework\QQWayByForest\bin\Debug\QQWayByForest.exe
+C:\DataWin8\CSharp\Homework\QQWayByForest\bin\Debug\QQWayByForest.pdb
+C:\DataWin8\CSharp\Homework\QQWayByForest\obj\Debug\QQWayByForest.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\QQWayByForest\obj\Debug\QQWayByForest.exe
+C:\DataWin8\CSharp\Homework\QQWayByForest\obj\Debug\QQWayByForest.pdb

@@ -1,0 +1,5 @@
+is : 5
+city : 4
+Lebanese : 4
+war : 2
+least : 2

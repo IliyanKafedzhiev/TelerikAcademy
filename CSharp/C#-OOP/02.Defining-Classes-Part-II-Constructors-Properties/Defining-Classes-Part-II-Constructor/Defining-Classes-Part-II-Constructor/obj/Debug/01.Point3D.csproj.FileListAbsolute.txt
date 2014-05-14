@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\bin\Debug\Defining-Classes-Part-II-Constructor.exe.config
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\bin\Debug\Defining-Classes-Part-II-Constructor.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\bin\Debug\Defining-Classes-Part-II-Constructor.pdb
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\obj\Debug\Defining-Classes-Part-II-Constructor.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\Defining-Classes-Part-II-Constructor\obj\Debug\Defining-Classes-Part-II-Constructor.pdb

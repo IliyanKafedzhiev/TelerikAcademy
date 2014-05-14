@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\bin\Debug\13.ResloveThreeTasks.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\bin\Debug\13.ResloveThreeTasks.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\bin\Debug\13.ResloveThreeTasks.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\obj\Debug\13.ResloveThreeTasks.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\obj\Debug\13.ResloveThreeTasks.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\13.ResloveThreeTasks\obj\Debug\13.ResloveThreeTasks.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\bin\Debug\LINQ-Queries.exe
+C:\Users\Iliyan\Desktop\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\bin\Debug\LINQ-Queries.pdb
+C:\Users\Iliyan\Desktop\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\obj\x86\Debug\03. LINQ-Queries.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.exe
+C:\Users\Iliyan\Desktop\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.pdb

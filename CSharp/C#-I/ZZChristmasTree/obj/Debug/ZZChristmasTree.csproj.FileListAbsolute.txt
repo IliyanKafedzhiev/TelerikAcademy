@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\bin\Debug\ZZChristmasTree.exe.config
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\bin\Debug\ZZChristmasTree.exe
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\bin\Debug\ZZChristmasTree.pdb
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\obj\Debug\ZZChristmasTree.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\obj\Debug\ZZChristmasTree.exe
+C:\DataWin8\CSharp\Homework\ZZChristmasTree\obj\Debug\ZZChristmasTree.pdb

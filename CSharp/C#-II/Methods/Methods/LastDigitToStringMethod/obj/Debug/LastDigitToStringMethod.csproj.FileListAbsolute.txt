@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\LastDigitToStringMethod\bin\Debug\LastDigitToStringMethod.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\LastDigitToStringMethod\bin\Debug\LastDigitToStringMethod.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\LastDigitToStringMethod\bin\Debug\LastDigitToStringMethod.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\LastDigitToStringMethod\obj\Debug\LastDigitToStringMethod.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\LastDigitToStringMethod\obj\Debug\LastDigitToStringMethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\bin\Debug\4.DownloadFileFromInternetAndCheckAllIssue.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\bin\Debug\4.DownloadFileFromInternetAndCheckAllIssue.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\bin\Debug\4.DownloadFileFromInternetAndCheckAllIssue.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\obj\Debug\4.DownloadFileFromInternetAndCheckAllIssue.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\obj\Debug\4.DownloadFileFromInternetAndCheckAllIssue.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\4.DownloadFileFromInternetAndCheckAllIssue\obj\Debug\4.DownloadFileFromInternetAndCheckAllIssue.pdb

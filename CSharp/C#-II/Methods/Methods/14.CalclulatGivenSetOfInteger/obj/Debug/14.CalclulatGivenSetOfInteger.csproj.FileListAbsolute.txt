@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\bin\Debug\14.CalclulatGivenSetOfInteger.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\bin\Debug\14.CalclulatGivenSetOfInteger.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\bin\Debug\14.CalclulatGivenSetOfInteger.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\obj\Debug\14.CalclulatGivenSetOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\obj\Debug\14.CalclulatGivenSetOfInteger.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\14.CalclulatGivenSetOfInteger\obj\Debug\14.CalclulatGivenSetOfInteger.pdb

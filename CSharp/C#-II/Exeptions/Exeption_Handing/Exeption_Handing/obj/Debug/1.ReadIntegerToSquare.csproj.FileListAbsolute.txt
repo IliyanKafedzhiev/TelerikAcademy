@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\bin\Debug\Exeption_Handing.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\bin\Debug\Exeption_Handing.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\bin\Debug\Exeption_Handing.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\obj\Debug\1.ReadIntegerToSquare.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\obj\Debug\Exeption_Handing.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\Exeption_Handing\obj\Debug\Exeption_Handing.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\obj\Debug\1.DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.pdb

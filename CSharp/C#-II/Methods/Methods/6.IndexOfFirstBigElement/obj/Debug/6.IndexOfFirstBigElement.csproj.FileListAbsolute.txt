@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\6.IndexOfFirstBigElement\bin\Debug\6.IndexOfFirstBigElement.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\6.IndexOfFirstBigElement\bin\Debug\6.IndexOfFirstBigElement.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\6.IndexOfFirstBigElement\bin\Debug\6.IndexOfFirstBigElement.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\6.IndexOfFirstBigElement\obj\Debug\6.IndexOfFirstBigElement.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\6.IndexOfFirstBigElement\obj\Debug\6.IndexOfFirstBigElement.pdb

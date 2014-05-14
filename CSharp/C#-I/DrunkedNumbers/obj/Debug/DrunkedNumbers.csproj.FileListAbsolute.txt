@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\bin\Debug\DrunkedNumbers.exe.config
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\bin\Debug\DrunkedNumbers.exe
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\bin\Debug\DrunkedNumbers.pdb
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\obj\Debug\DrunkedNumbers.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\obj\Debug\DrunkedNumbers.exe
+C:\DataWin8\CSharp\Homework\DrunkedNumbers\obj\Debug\DrunkedNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\07.ReplaceWordsInFile\bin\Debug\07.ReplaceWordsInFile.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\07.ReplaceWordsInFile\bin\Debug\07.ReplaceWordsInFile.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\07.ReplaceWordsInFile\bin\Debug\07.ReplaceWordsInFile.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\07.ReplaceWordsInFile\obj\Debug\07.ReplaceWordsInFile.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\07.ReplaceWordsInFile\obj\Debug\07.ReplaceWordsInFile.pdb

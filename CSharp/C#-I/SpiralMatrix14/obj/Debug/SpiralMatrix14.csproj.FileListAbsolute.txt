@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\bin\Debug\SpiralMatrix14.exe.config
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\bin\Debug\SpiralMatrix14.exe
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\bin\Debug\SpiralMatrix14.pdb
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\obj\Debug\SpiralMatrix14.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\obj\Debug\SpiralMatrix14.exe
+C:\DataWin8\CSharp\Homework\SpiralMatrix14\obj\Debug\SpiralMatrix14.pdb

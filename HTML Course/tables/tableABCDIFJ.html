@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TableABCD</title>
+	<style type="text/css">
+		td#ddd {text-align:center}
+		td {text-align:center}
+		td#fff {text-align:right}
+	</style>
+</head>
+
+<body>
+	<table border="3px">
+		<colgroup>
+		<col width="33"  />
+		<col width="33"  />
+		<col width="33"  />
+		<col width="33"  />
+		<col width="33"  />
+		</colgroup>
+		<tr>
+			<td colspan="3" >Title does here</td>
+			<td> A </td>
+			<td> B </td>
+		</tr>
+		<tr>
+			<td rowspan="3"> C</td>
+			<td> D</td>
+			<td> E</td>
+			<td> F</td>
+			<td> G</td>
+		</tr>
+		<tr>
+			
+			<td> H</td>
+			<td colspan="2" id="ddd">I</td>
+			<td rowspan="2" id="fff"><br/> J</td>
+		</tr>
+		<tr>
+			<td>K</td>
+			<td>L</td>
+			<td>M</td>
+		</tr>
+		<tr>
+			<td>N</td>
+			<td colspan="4">O</td>
+			
+		</tr>
+	</table>
+</body>
+</html>

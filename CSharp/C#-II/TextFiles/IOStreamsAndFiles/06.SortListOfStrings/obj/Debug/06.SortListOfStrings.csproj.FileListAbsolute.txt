@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.pdb

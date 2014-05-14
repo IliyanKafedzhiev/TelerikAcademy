@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\3.OpenRealTextFile\bin\Debug\3.OpenRealTextFile.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\3.OpenRealTextFile\bin\Debug\3.OpenRealTextFile.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\3.OpenRealTextFile\bin\Debug\3.OpenRealTextFile.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\3.OpenRealTextFile\obj\Debug\3.OpenRealTextFile.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\3.OpenRealTextFile\obj\Debug\3.OpenRealTextFile.pdb

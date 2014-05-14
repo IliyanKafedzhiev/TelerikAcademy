@@ -1,0 +1,1 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config

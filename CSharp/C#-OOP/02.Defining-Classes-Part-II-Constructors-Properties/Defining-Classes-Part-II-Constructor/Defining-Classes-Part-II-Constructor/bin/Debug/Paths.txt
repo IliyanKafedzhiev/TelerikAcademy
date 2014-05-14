@@ -1,0 +1,12 @@
+newPoint
+3
+4
+2
+newPoint
+5
+3
+2
+newPoint
+4
+2
+1

@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\bin\Debug\ExersizeVariable14.exe.config
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\bin\Debug\ExersizeVariable14.exe
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\bin\Debug\ExersizeVariable14.pdb
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\obj\Debug\Exersize14.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\obj\Debug\ExersizeVariable14.exe
+C:\DataWin8\CSharp\Homework\ExersizeVariable14\obj\Debug\ExersizeVariable14.pdb

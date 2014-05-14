@@ -1,0 +1,2 @@
+C:\DataWin8\CSharp\SecondHomeworkVariable\2ExersizeVariables\obj\x86\Debug\2ExersizeVariables.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\2ExersizeVariables\obj\x86\Debug\2ExersizeVariables.pdb

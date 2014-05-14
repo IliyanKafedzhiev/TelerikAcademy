@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\obj\Debug\7.CalculateExpression.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\obj\Debug\7.CalculateExpression.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\7.CalculateExpression\obj\Debug\7.CalculateExpression.pdb

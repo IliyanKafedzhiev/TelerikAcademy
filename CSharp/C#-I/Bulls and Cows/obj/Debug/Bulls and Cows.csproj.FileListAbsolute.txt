@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\Bulls and Cows\bin\Debug\Bulls and Cows.exe.config
+C:\DataWin8\CSharp\Homework\Bulls and Cows\bin\Debug\Bulls and Cows.exe
+C:\DataWin8\CSharp\Homework\Bulls and Cows\bin\Debug\Bulls and Cows.pdb
+C:\DataWin8\CSharp\Homework\Bulls and Cows\obj\Debug\Bulls and Cows.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\Bulls and Cows\obj\Debug\Bulls and Cows.exe
+C:\DataWin8\CSharp\Homework\Bulls and Cows\obj\Debug\Bulls and Cows.pdb

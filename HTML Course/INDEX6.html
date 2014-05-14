@@ -1,0 +1,121 @@
+<html>
+		<head> 
+				<title> anton qsenov </title>
+				<style type="text/css"> 
+							body {color:red;}
+				</style>
+				<link href="new.css" type="text/css" >
+		</head>
+<BODY> 
+		
+		
+		<a 
+			target="_blank" href="http://www.cars.bg/u772818">
+				<img 
+					src="logowin.gif" widht="90"
+				/>
+		</a>
+		<dl>
+				<li> ka4estvo </li>
+				<li> standart </li>
+				<li> tradici </li>
+		</dl>
+		<br/>
+		<p style="color:green;"><strong> Otnoshenie kam potrebitelq  </STRONG><P>
+		<ol>
+				<li> koreknost </li>
+				<li> barzina </li>
+				<li> profesionalno otnoshenie </li>
+				<li> sigurnost </li>
+		</ol>
+<p> drugi polezni saitove za albatrosa <p>
+		<ol>
+		
+		           <li><a href="http://www.cartoonsmart.com/html5_index.php5"> sait za albatrosite  </a></li>
+		           <li><a target="_blank" href="http://mytech.bg/uroci/11/HTML_CSS"> sait za albatrosite   </a></li>
+		           <li><a title="saitche" href="http://www.videotutorials-bg.com/stuff/twin.jpg"> sait za albatrosite   </a></li>
+		           <li><a href="http://www.videotutorials-bg.com/stuff/Fleetwood Mac-Albatross.mp3"> sait za albatrosite   </a></li>
+		           <li><a href="http://www.videotutorials-bg.com/stuff/Fleetwood Mac-Albatross.mp3"> sait za albatrosite   </a></li>
+				   <a href="index5.html">druga cekciq 
+				   
+		</ol>
+		<p> Unlocking storage
+
+One of the biggest hurdles developers of financial apps face, is the limited storage space available for mobile apps. Financial apps need to store data for a multitude of reasons such as updating security quotes and news. It is often inefficient to store such data on a server.  Fortunately, the HTML5 specifications contain a standard for local storage which is supported by browsers on all mobile platforms.
+
+There are two types of storage available for the client code in HTML5, local storage and the SQL database:
+
+Local Storage:
+Local storage is a simple key-value store that supports only strings as both keys and values. Local storage can be manipulated using two basic operations, set and get, as shown below:
+
+//To save an item into local storage
+localStorage.setItem(key, value);
+
+//To get an item from local storage
+value = localStorage.getItem(key);
+
+In our financial app, we used this to store application installation keys, session information and user preferences. It is limited in size to 5mb on iOS.
+
+SQL Storage:
+SQL storage is a light SQL database. It generally occupies 5Mb, but subject to user permissions, it can occupy up to 50Mb. We used this database to cache app data, dynamic image assets, and user preferences. It supports all of the CRUD operations.
+
+Making the application work offline
+
+For financial apps, functionality gets reduced if the user does not have a constant connection to the Internet. However, applications should not fail completely because the user is not connected to the Internet. Imagine financial apps not displaying your portfolio, just because the mobile app is offline.
+
+The manifest enables financial apps to work in offline mode. It is very easy to use but you must make sure all static assets are listed in your app.manifest file and that the manifest is referenced in your .html file before the tag:
+manifest=”pnlhd/pnlhd.manifest”>
+The assets listed in the manifest file must not exceed 5Mb in total.
+
+There’s another advantage to this, and that is speed. As financial apps have to be functional even offline, the HTML, JavaScript and CSS are all cached. This ensures that the mobile app is as fast and powerful as a native app.
+
+Using the canvas tag
+
+Canvas is a very simple pixel-based drawing API, but if used the right way it provides scripts with a resolution-dependent bitmap canvas, which can be used for rendering graphs or other visual images on the fly.
+
+To use the canvas tag, you’ll need two things:
+
+// Checking that element is in the DOM and that the browser supports canvas
+if(drawingCanvas.getContext) {
+// Initialize a 2-dimensional drawing context
+var context = drawingCanvas.getContext(’2d’);
+//Canvas commands go here
+};
+In the mobile app we developed, we needed to manipulate existing images (which were returned as a result of the web service calls). External images can be loaded using the drawImage method.
+
+context.drawImage(imgObj, XPos, YPos, Width, Height);
+
+After the image has been loaded, you can make manipulations like pixel manipulation and drawing text to the canvas, all of which make rendering of financial data more intuitive.
+
+Making Financial Apps secure
+
+Security is one of the top concerns that crops up when people think of HTML5 mobile apps. Below are the major security threats that HTML5-based financial apps face and best practices to counter these threats.
+
+General Considerations:
+Financial apps that are HTML5 standards compliant benefit from full browser security and sandbox.Therefore, they have limited and controlled access to local resources including other apps that are running on the same device. These limitations are valuable because it gives users the comfort that developers don’t have access to any of the proprietary information that resides on their device.
+
+Malicious Code:
+JSON (JavaScript Object Notation) is the preferred data transport in HTML5-based mobile apps because it is fast and very easy to use. Unfortunately, JSON also exposes you to running malicious code if the code somehow makes it into the data you are handling. It is critical to scrub all data that passes through an application and remove any code.
+
+Cross Site Scripting (XSS):
+Cross-Site Scripting is a danger for all mobile apps. XSS allows attackers to inject malicious code into client-side scripts. To eliminate this threat, you should limit the locations from which the financial app downloads content, and treat all incoming data as potentially malicious code.
+
+Local Storage:
+Threats related to use of the HTML5 local storage and database can be mitigated by encrypting the local database. In financial apps, all the data stored in the Local Storage and Database should be encrypted using an encryption library. Also, threats related to exploitation of the manifest file should be eliminated by using HTTPS.
+
+I hope that the HTML5 blog series was able to convince you that HTML5 is a viable platform for quickly and efficiently developing financial apps. Please feel free to comment, I would love to hear you views on the same.
+
+
+Related Posts
+Developing Cross-Platform HTML5-based Financial Apps
+
+Offline storage
+
+Working with HTML5 localStorage()
+
+HTML5 web app: ARIS ModelViewer </p>
+<br/>
+<a href="#nachalo">vrashtane v nachalo</a>
+		
+		</BODY>
+</HTML>

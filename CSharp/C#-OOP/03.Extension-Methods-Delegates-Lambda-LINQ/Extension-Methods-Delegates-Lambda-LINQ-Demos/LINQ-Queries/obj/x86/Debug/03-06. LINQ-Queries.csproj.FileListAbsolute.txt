@@ -1,0 +1,2 @@
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.exe
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.pdb

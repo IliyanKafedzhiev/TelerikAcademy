@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\15.CalculateGivenSetOfAnyType\bin\Debug\15.CalculateGivenSetOfAnyType.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\15.CalculateGivenSetOfAnyType\bin\Debug\15.CalculateGivenSetOfAnyType.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\15.CalculateGivenSetOfAnyType\bin\Debug\15.CalculateGivenSetOfAnyType.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\15.CalculateGivenSetOfAnyType\obj\Debug\15.CalculateGivenSetOfAnyType.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\15.CalculateGivenSetOfAnyType\obj\Debug\15.CalculateGivenSetOfAnyType.pdb

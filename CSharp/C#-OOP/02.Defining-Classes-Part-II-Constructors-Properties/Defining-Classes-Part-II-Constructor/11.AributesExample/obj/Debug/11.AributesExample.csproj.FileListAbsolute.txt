@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\11.AributesExample\bin\Debug\11.AributesExample.exe.config
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\11.AributesExample\bin\Debug\11.AributesExample.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\11.AributesExample\bin\Debug\11.AributesExample.pdb
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\11.AributesExample\obj\Debug\11.AributesExample.exe
+C:\Users\Iliyan\Desktop\Defining-Classes-Part-II-Constructor\11.AributesExample\obj\Debug\11.AributesExample.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\WhichDayIsToday\bin\Debug\WhichDayIsToday.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\WhichDayIsToday\bin\Debug\WhichDayIsToday.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\WhichDayIsToday\bin\Debug\WhichDayIsToday.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\WhichDayIsToday\obj\Debug\WhichDayIsToday.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\WhichDayIsToday\obj\Debug\WhichDayIsToday.pdb

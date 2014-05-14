@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\bin\Debug\CoffeeMachineCoints.exe.config
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\bin\Debug\CoffeeMachineCoints.exe
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\bin\Debug\CoffeeMachineCoints.pdb
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\obj\Debug\CoffeeMachineCoints.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\obj\Debug\CoffeeMachineCoints.exe
+C:\DataWin8\CSharp\Homework\CoffeeMachineCoints\obj\Debug\CoffeeMachineCoints.pdb

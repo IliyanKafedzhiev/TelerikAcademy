@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\bin\Debug\11.RemoveWordWithPrefixTest.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\bin\Debug\11.RemoveWordWithPrefixTest.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\bin\Debug\11.RemoveWordWithPrefixTest.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\obj\Debug\11.RemoveWordWithPrefixTest.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\obj\Debug\11.RemoveWordWithPrefixTest.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\11.RemoveWordWithPrefixTest\obj\Debug\11.RemoveWordWithPrefixTest.pdb

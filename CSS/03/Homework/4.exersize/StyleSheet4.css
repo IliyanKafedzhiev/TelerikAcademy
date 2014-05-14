@@ -1,0 +1,180 @@
+﻿*{
+    padding:0;
+    margin:0;
+}
+body {
+    background-color:#e6e6e6;
+}
+    body nav {
+        position:absolute;
+        width:20%;
+    }
+        body nav section {
+            margin:10px;
+        }
+            body nav section p{
+                display:inline-block;
+                font-size:15px;
+                font-family:Aharoni;
+                top:25px;
+                position:absolute;
+
+            }
+            body nav section img{
+                height:30px;
+                width:30px;
+            }
+                body nav section h1 {
+                    color:darkred;
+                    font-size:15px;
+                }
+                body nav section a{
+               display:block;
+               text-decoration:none;
+               color:black;
+               }
+body > section {
+    position:absolute;
+    left:15%;
+    background-color:white;
+    width:67%;
+    height:900px;
+    border:1px solid #808080;
+
+}
+    body > section > header {
+        margin-top:30px;
+        font-size:30px;
+        margin-left:5px;
+        padding-bottom:10px;
+        border-bottom:1px solid #808080;
+    }
+        body > section header img {
+            position:absolute;
+            height:20px;
+            margin-top:12px;
+            margin-left:169px;
+        }
+        body > section header img.left-arrow {
+            margin-left:0px;
+            transform:rotate(180deg);
+            -ms-transform:rotate(180deg); /* IE 9 */
+            -webkit-transform:rotate(180deg); /* Safari and Chrome */
+        }
+        body > section header form input{
+            display:inline-block;
+            width:90px;
+            background-color:white;
+            border:none;
+            border:1px solid black;
+        }
+    body > section >footer {
+            margin-top:30px;
+            font-size:30px;
+            margin-left:5px;
+            border-bottom:1px solid #808080;
+        }
+            body > section footer img {
+                position:absolute;
+                height:20px;
+                margin-top:12px;
+                margin-left:169px;
+            }
+            body > section footer img.left-arrow {
+                margin-left:0px;
+                transform:rotate(180deg);
+                -ms-transform:rotate(180deg); /* IE 9 */
+                -webkit-transform:rotate(180deg); /* Safari and Chrome */
+            }
+            body > section footer form input{
+                display:inline-block;
+                width:90px;
+                background-color:white;
+                border:none;
+                border:1px solid black;
+            }
+    body > section section header {
+        margin:10px 5px;
+    }
+            body > section section header p {
+        background-color:#808080;
+        color:white;
+        font-size:20px;
+        
+        
+    }
+            body > section section section img {
+        display: inline-block;
+        
+    }
+            body > section section section h6 {
+        display:inline-block;
+        position:absolute;
+        font-size:16px;
+        margin:10px 10px;
+        
+    } 
+            body > section section section h5 {
+        display:inline-block;
+        position:absolute;
+        margin-top:40px;
+        margin-left:10px;
+        width:340px;
+        font-size:16px;
+        
+    }
+    body > section > section {
+        height:190px;
+    }
+        body > section > section > footer {
+            margin:20px 140px;
+        }
+        body > section > section > footer > a {
+            font-size:18px;
+            color:red;
+        }
+        body > section > section > section p {
+            margin:10px 5px;
+        }
+body > aside {
+    position:absolute;
+    left:83%;
+    width:15%;
+    height:900px;
+}
+    body > aside ul {
+        list-style-type:none;
+    }
+    body > aside >ul >li {
+        height:130px;
+        border:1px solid #808080;
+        background-color:white;
+        margin:2px 0px;
+    }
+        body > aside > ul > li p {
+            color:white;
+            background-color:#808080;
+            font-size:20px;
+            text-align:center;
+            font-family:Arial;
+        }
+        body > aside > ul > li input[type="text"] {
+            width:50%;
+            margin-left:15px;
+            margin-top:15px;
+            border-color:aqua;
+        }
+        body > aside > ul > li a {
+            display:block;
+            padding:5px 30px;
+            color:red;
+            text-align:center;
+        }
+        body > aside > ul > li input.big-button {
+            background-color:azure;
+            margin:15px 20px;
+            height:50px;
+            width:145px;
+            color:aqua;
+            font-size:23px;
+        }

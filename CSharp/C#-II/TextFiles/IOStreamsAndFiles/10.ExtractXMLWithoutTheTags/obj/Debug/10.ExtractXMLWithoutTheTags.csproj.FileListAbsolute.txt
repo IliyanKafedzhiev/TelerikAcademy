@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\bin\Debug\10.ExtractXMLWithoutTheTags.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\bin\Debug\10.ExtractXMLWithoutTheTags.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\bin\Debug\10.ExtractXMLWithoutTheTags.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\obj\Debug\10.ExtractXMLWithoutTheTags.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\obj\Debug\10.ExtractXMLWithoutTheTags.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\10.ExtractXMLWithoutTheTags\obj\Debug\10.ExtractXMLWithoutTheTags.pdb

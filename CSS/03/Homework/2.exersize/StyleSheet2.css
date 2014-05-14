@@ -1,0 +1,98 @@
+﻿body
+{
+    margin:0px;
+    padding:0px;
+}
+body >p {
+    position:absolute;
+    left:30px;
+    font-size:20px;
+    font-family:Century;
+}
+ul {
+    margin:0px;
+    padding:0px;
+    padding-top:40px;
+    width:500px;
+    height:680px;
+    background-color:#eeeeee;
+    list-style-type:none;
+    border-radius:20px;
+}
+
+ul li {
+    border:1px solid #9b9898;
+    background-color:white;
+    margin:50px 15px;
+    width:auto;
+    height:160px;
+    
+}
+
+ul li img {
+    margin:0;
+    margin-top:5%;
+    margin-left:5%;
+    width:150px;
+    height:110px;
+    display:inline-block;
+    
+    
+}
+  ul li div {
+        display:inline-block;
+        position:absolute;
+        padding:0px;
+        margin:0px;
+        margin-top:5%;
+        margin-left:5%;
+        width:220px;
+        height:auto;
+    }
+    ul li div p {
+        margin:0;
+        padding:0;
+    }
+.button {
+    padding:0;
+    margin:0;
+    margin-top:10px;
+    margin-left:90px;
+}
+
+    .button a {
+        text-decoration:none;
+        padding:8px 18px;
+        display:inline-block;
+        color:white;
+        font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight:100;
+        font-size:14px;
+    }
+
+  .button-listen {
+    padding:0;
+    margin:0;
+    
+	width: 75px;		/* exact button width */
+	height: 30px;		/* exact button height */
+	/* button background: don't repeat the background, let it scroll with 
+	   the page, and find the proper offset for the button in the file */
+	background: url('buttons.gif') no-repeat scroll -1px 0px;
+ 
+    display:inline-block;
+}
+ 
+.button-add {
+    padding:0;
+    margin:0;
+    margin-left:80px;
+	width: 60px;
+	height: 30px;
+	background: url('buttons.gif') no-repeat scroll -10px 0px;
+    display:inline-block;
+    
+}
+ul li p span {
+    font-weight:bold;
+}

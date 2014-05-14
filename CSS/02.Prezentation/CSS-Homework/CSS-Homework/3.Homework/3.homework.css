@@ -1,0 +1,15 @@
+
+
+div  {
+    border: 1px solid #ff0000;
+
+    padding-right:3%;
+    margin:0px;
+    border-radius:60px;
+    background-color:black;
+}
+body > div {
+    width:600px;
+    height:118px;
+
+}

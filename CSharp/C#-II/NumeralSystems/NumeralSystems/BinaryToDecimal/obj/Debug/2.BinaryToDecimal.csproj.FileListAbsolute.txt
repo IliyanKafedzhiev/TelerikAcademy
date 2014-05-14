@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

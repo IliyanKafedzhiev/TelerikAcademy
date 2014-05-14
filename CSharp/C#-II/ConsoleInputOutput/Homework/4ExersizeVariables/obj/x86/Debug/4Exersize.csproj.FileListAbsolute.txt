@@ -1,0 +1,7 @@
+C:\DataWin8\CSharp\Homework\4ExersizeVariables\obj\x86\Debug\4ExersizeVariables.exe
+C:\DataWin8\CSharp\Homework\4ExersizeVariables\obj\x86\Debug\4ExersizeVariables.pdb
+C:\DataWin8\CSharp\Homework\4ExersizeVariables\bin\Debug\4ExersizeVariables.exe
+C:\DataWin8\CSharp\Homework\4ExersizeVariables\bin\Debug\4ExersizeVariables.pdb
+C:\DataWin8\CSharp\Homework\4ExersizeVariables\obj\x86\Debug\4Exersize.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\ConsoleInputOutput\Homework\4ExersizeVariables\obj\x86\Debug\4ExersizeVariables.exe
+C:\DataWin8\CSharp\ConsoleInputOutput\Homework\4ExersizeVariables\obj\x86\Debug\4ExersizeVariables.pdb

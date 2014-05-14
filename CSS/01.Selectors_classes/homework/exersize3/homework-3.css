@@ -1,0 +1,39 @@
+body{
+    background:rgb(198, 198, 198);
+}
+
+.header{
+    text-align:center;
+    color:white;
+}
+.header h1{
+    line-height:100px;
+    font-size:40px;
+}
+li{
+    list-style:none;
+}
+li a{
+    text-align:center;
+    color:white;
+    font-size:25px;
+}
+li a.nonudrl{
+    text-decoration:none;
+}
+article header h1{
+    color:white;
+    font-size:25px;
+}
+article footer {
+    font-size:13px;
+}
+article footer a{
+    color:black;
+    text-decoration:none;
+}
+.frontfooter{
+    text-align:center;
+    font-size:15px;
+    line-height:50px;
+}

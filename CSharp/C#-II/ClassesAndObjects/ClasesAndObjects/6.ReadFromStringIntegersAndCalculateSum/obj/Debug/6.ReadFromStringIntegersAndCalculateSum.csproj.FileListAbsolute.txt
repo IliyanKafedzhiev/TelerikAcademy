@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\bin\Debug\6.ReadFromStringIntegersAndCalculateSum.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\bin\Debug\6.ReadFromStringIntegersAndCalculateSum.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\bin\Debug\6.ReadFromStringIntegersAndCalculateSum.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\obj\Debug\6.ReadFromStringIntegersAndCalculateSum.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\obj\Debug\6.ReadFromStringIntegersAndCalculateSum.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\6.ReadFromStringIntegersAndCalculateSum\obj\Debug\6.ReadFromStringIntegersAndCalculateSum.csprojResolveAssemblyReference.cache

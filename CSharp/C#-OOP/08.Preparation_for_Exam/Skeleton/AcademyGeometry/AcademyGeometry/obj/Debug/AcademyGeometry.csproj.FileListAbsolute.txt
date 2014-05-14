@@ -1,0 +1,1 @@
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\08.Preparation_for_Exam\Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config

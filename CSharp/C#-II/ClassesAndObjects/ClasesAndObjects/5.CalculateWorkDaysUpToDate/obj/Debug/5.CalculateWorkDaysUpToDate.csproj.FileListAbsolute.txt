@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\bin\Debug\5.CalculateWorkDaysUpToDate.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\bin\Debug\5.CalculateWorkDaysUpToDate.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\bin\Debug\5.CalculateWorkDaysUpToDate.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\obj\Debug\5.CalculateWorkDaysUpToDate.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\obj\Debug\5.CalculateWorkDaysUpToDate.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\ClassesAndObjects\ClasesAndObjects\5.CalculateWorkDaysUpToDate\obj\Debug\5.CalculateWorkDaysUpToDate.pdb

@@ -1,0 +1,5 @@
+C:\DataWin8\CSharp\Homework\2ExersizeVariables\obj\x86\Debug\2ExersizeVariables.exe
+C:\DataWin8\CSharp\Homework\2ExersizeVariables\obj\x86\Debug\2ExersizeVariables.pdb
+C:\DataWin8\CSharp\Homework\2ExersizeVariables\bin\Debug\2ExersizeVariables.exe
+C:\DataWin8\CSharp\Homework\2ExersizeVariables\bin\Debug\2ExersizeVariables.pdb
+C:\DataWin8\CSharp\Homework\2ExersizeVariables\obj\x86\Debug\3BiggestOfthreeNums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\bin\Debug\9ExersizeVariable.exe.config
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\bin\Debug\9ExersizeVariable.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\bin\Debug\9ExersizeVariable.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\obj\Debug\9ExersizeVariable.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\obj\Debug\9ExersizeVariable.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\9ExersizeVariable\obj\Debug\9ExersizeVariable.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\bin\Debug\12.PolynomialsSubstractionAndMultiplication.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\bin\Debug\12.PolynomialsSubstractionAndMultiplication.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\bin\Debug\12.PolynomialsSubstractionAndMultiplication.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\obj\Debug\12.PolynomialsSubstractionAndMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\obj\Debug\12.PolynomialsSubstractionAndMultiplication.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\12.PolynomialsSubstractionAndMultiplication\obj\Debug\12.PolynomialsSubstractionAndMultiplication.pdb

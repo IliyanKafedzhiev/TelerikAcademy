@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\2.ReadNumbers\bin\Debug\2.ReadNumbers.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\2.ReadNumbers\obj\Debug\2.ReadNumbers.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Exeptions\Exeption_Handing\2.ReadNumbers\obj\Debug\2.ReadNumbers.pdb

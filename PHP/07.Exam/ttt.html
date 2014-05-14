@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+    	table {
+    		border-collapse: collapse;
+    		border: 1px solid #ccc;
+    	}
+    	table td {
+            border-collapse: collapse;
+            border: 1px solid #ccc;
+    		text-align: center;
+    		vertical-align: middle;
+    		width: 50px;
+    		height: 50px;
+    	}
+        #tictactoe {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-top: -125px;
+                margin-left: -125px;
+        }
+    </style>
+    <script type="text/javascript" src="json3.min.js"></script>
+    <script type="text/javascript" src="ajax.js"></script>
+    <script type="text/javascript">
+
+(function () {
+    var cells  = {},
+        EMPTY = "\xA0",
+        score,
+        moves,
+        turn = "X",
+        oldOnload,
+
+    wins = [7, 56, 448, 73, 146, 292, 273, 84],
+
+    startNewGame = function () {
+        var i;
+        
+        turn = "X";
+        score = {"X": 0, "O": 0};
+        moves = 0;
+        for(i in cells) {
+            cells[i].firstChild.nodeValue = EMPTY;
+        }
+    },
+
+    win = function (score) {
+        var i;
+        for (i = 0; i < wins.length; i += 1) {
+            if ((wins[i] & score) === wins[i]) {
+                return true;
+            }
+        }
+        return false;
+    },
+
+    set = function () {
+        if (this.firstChild.nodeValue !== EMPTY) {
+            return;
+        }
+        this.firstChild.nodeValue = turn;
+        moves += 1;
+        score[turn] += this.indicator;
+        if (win(score[turn])) {
+            alert(turn + " wins!");
+            startNewGame();
+        } else if (moves === 9) {
+            alert("Draw!");
+            startNewGame();
+        } else {
+            turn = turn === "X" ? "O" : "X";
+	    	if (turn === "O") {
+           		ajax.request({
+                	method: "GET",
+					responseType: "json",
+                    url: "script.php?played="+ (score.X + score.O),
+                    success: function(data){
+						var obj = JSON.parse(data);
+                        cells[obj.cell].click();
+                    }
+				});
+	    	}
+        }
+    },
+
+    play = function () {
+        var board = document.createElement("table"),
+        	tbody = document.createElement("tbody"),
+            indicator = 1,
+            i, j,
+            row, cell,
+            parent;
+        board.border = 1;
+        board.appendChild(tbody); // fix for ie7
+		
+        for (i = 0; i < 3; i += 1) {
+            row = document.createElement("tr");
+            tbody.appendChild(row);
+            for (j = 0; j < 3; j += 1) {
+                cell = document.createElement("td");
+                cell.indicator = indicator;
+                cell.onclick = set;
+                cell.appendChild(document.createTextNode(""));
+                row.appendChild(cell);
+                cells[indicator] = cell;
+                indicator += indicator;
+            }
+        }
+
+        parent = document.getElementById("tictactoe");
+        parent.appendChild(board);
+        startNewGame();
+    };
+
+    if (typeof window.onload === "function") {
+        oldOnLoad = window.onload;
+        window.onload = function () {
+            oldOnLoad(); 
+            play();
+        };
+    } else {
+        window.onload = play;
+    }
+}());
+
+    
+    </script>
+</head>
+<body>
+    <div id="tictactoe"></div>
+</body>
+</html>

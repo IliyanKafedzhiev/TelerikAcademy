@@ -1,0 +1,3 @@
+C:\DataWin8\CSharp\Homework\8ExersizeVariable\bin\Debug\8ExersizeVariable.exe.config
+C:\DataWin8\CSharp\Homework\8ExersizeVariable\obj\Debug\8ExersizeVariable.exe
+C:\DataWin8\CSharp\Homework\8ExersizeVariable\obj\Debug\8ExersizeVariable.pdb

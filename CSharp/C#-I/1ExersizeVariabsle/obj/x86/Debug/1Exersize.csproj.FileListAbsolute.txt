@@ -1,0 +1,5 @@
+C:\DataWin8\CSharp\Homework\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.exe
+C:\DataWin8\CSharp\Homework\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.pdb
+C:\DataWin8\CSharp\Homework\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.exe
+C:\DataWin8\CSharp\Homework\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.pdb
+C:\DataWin8\CSharp\Homework\1ExersizeVariabsle\obj\x86\Debug\1Exersize.csprojResolveAssemblyReference.cache

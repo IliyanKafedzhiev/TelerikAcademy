@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\AppendTwoFiles\bin\Debug\AppendTwoFiles.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\AppendTwoFiles\bin\Debug\AppendTwoFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\AppendTwoFiles\bin\Debug\AppendTwoFiles.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\AppendTwoFiles\obj\Debug\AppendTwoFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\AppendTwoFiles\obj\Debug\AppendTwoFiles.pdb

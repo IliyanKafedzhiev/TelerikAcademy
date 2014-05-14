@@ -1,0 +1,79 @@
+$picture1: "http://3.bp.blogspot.com/-zpSs2GWMbDE/UHB1PD4-qDI/AAAAAAAAGvs/ePANAKmue8s/s1600/Fawn-wild-animals-2603084-1024-768.jpg";
+$picture2: "http://4.bp.blogspot.com/-HYaTsL44FuA/UHB1L9bPFFI/AAAAAAAAGvk/00mND1AtsMw/s1600/Father-And-Son-wild-animals-3310990-1600-1200.jpg";
+$picture3: "http://images2.fanpop.com/images/photos/3600000/Mates-wild-animals-3633264-1600-1177.jpg";
+$picture4: "http://1.bp.blogspot.com/-c3R-YAIfm_8/UKZA4DpmD5I/AAAAAAAAC5E/OQhBsahERGU/s1600/List%2Bof%2Bthe%2Bbest%2BAfrican%2Banimal%2Bsafari%2Btravel%2Bdestination%2Bat%2BMasai%2BMara%2BNational%2BPark%2BKenya%2Blocation%2BMara%2BSafari%2BClub%2BType%2Bof%2BAccommodation%2BGame%2BLodge%2Bbeautiful%2Bamazing%2BAfrican%2Banimal%2Bsafari%2Banimal%2BpictureCheetah%2BFamily%2Bwild%2Banimals%2Bimages.jpg";
+$picture5: "http://www.pageresource.com/wallpapers/wallpaper/wild-animals-wide-screen_403643.jpg";
+$picture6: "http://3.bp.blogspot.com/-zpSs2GWMbDE/UHB1PD4-qDI/AAAAAAAAGvs/ePANAKmue8s/s1600/Fawn-wild-animals-2603084-1024-768.jpg";
+@mixin onclick($picture: $picture1){
+	div{
+		position:fixed;
+		background-image: url($picture);
+		top:200px;
+		left:5%;
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		width:60%;
+		height:70%;
+		bottom:60px;
+		
+	}
+}
+
+body
+{
+	ul{
+		li{
+			list-style-type:none;
+			float:left;
+			width:16%;
+			min-width:150px;
+			height:150px;
+			background-size:150px 150px;
+			background-repeat:no-repeat;
+			&:nth-child(1){
+				background-image: url($picture1);
+				&:hover {
+					@include onclick($picture1);
+					div{ z-index:3;}
+				}
+			}
+			&:nth-child(2){
+				background-image: url($picture2);
+				&:hover {
+					@include onclick($picture2);
+					div{z-index:3;}
+				}
+			}
+			&:nth-child(3){
+				background-image: url($picture3);
+				&:hover {
+					@include onclick($picture3);
+					div{ z-index:3;}
+				}
+			}
+			&:nth-child(4){
+				background-image: url($picture4);
+				&:hover {
+					@include onclick($picture4);
+					div{ z-index:3;}
+				}
+			}
+			&:nth-child(5){
+				background-image: url($picture5);
+				&:hover {
+					@include onclick($picture5);
+					div{ z-index:3;}
+				}
+			}
+			&:nth-child(6){
+				background-image: url($picture6);
+				&:hover {
+					@include onclick($picture6);
+					div{ z-index:3;}
+				}
+			}
+			
+		}
+	}
+}
+@include onclick($picture1);

@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\ZerosInFact1\bin\Debug\ZerosInFact1.exe.config
+C:\DataWin8\CSharp\Homework\ZerosInFact1\bin\Debug\ZerosInFact1.exe
+C:\DataWin8\CSharp\Homework\ZerosInFact1\bin\Debug\ZerosInFact1.pdb
+C:\DataWin8\CSharp\Homework\ZerosInFact1\obj\Debug\ZerosInFact13.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\ZerosInFact1\obj\Debug\ZerosInFact1.exe
+C:\DataWin8\CSharp\Homework\ZerosInFact1\obj\Debug\ZerosInFact1.pdb

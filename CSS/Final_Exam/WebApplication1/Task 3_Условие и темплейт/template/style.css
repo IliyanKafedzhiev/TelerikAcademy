@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+
+body {
+    font-size: 14px;
+    font-family: Corbel;
+}
+
+    body #root {
+        margin-left: 5px;
+        margin-top: 3px;
+        width: 375px;
+        height: 292px;
+        border-top: 3px solid black;
+        border-left: 3px solid black;
+        border-radius: 15px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+#root > h1 {
+    position: relative;
+    font-size: 1.9em;
+    font-family: Corbel;
+    margin-top: 18px;
+    margin-left: 70px;
+}
+
+.widget {
+    position: relative;
+    top: 18px;
+    left: 25px;
+    width: 290px;
+    height: 195px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #cbf7be; /* Old browsers */
+    background: -moz-linear-gradient(top, #cbf7be 0%, #e5d96e 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cbf7be), color-stop(100%,#e5d96e)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #cbf7be 0%,#e5d96e 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #cbf7be 0%,#e5d96e 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #cbf7be 0%,#e5d96e 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #cbf7be 0%,#e5d96e 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbf7be', endColorstr='#e5d96e',GradientType=0 ); /* IE6-9 */
+}
+
+#dd-rank ul li {
+    display: none;
+}
+
+#dd-title ul li {
+    display: none;
+}
+
+#dd-rank {
+    float: left;
+}
+
+    #dd-rank:after {
+        content: "";
+        display: block;
+        height: 0;
+        clear: both;
+    }
+
+#dd-title {
+    float: left;
+}
+
+    #dd-title:after {
+        content: "";
+        display: block;
+        height: 0;
+        clear: both;
+    }
+
+
+label {
+    display:inline-block;
+}
+label[for=tb-fname] {
+    margin-left: 33px;
+    margin-top: 28px;
+    font-size: 14px;
+    font-family: Corbel;
+    font-weight: bold;
+}
+
+label[for=tb-lname] {
+    margin-left: 35px;
+    margin-top: 35px;
+    font-weight: bolder;
+}
+
+#tb-fname {
+    margin-top:20px;
+}
+
+#tb-lname {
+    
+}
+
+input {
+    background-color:rgba(1,1,1,0);
+    height:30px;
+    width:155px;
+}
+

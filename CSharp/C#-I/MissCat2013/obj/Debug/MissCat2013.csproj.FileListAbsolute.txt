@@ -1,0 +1,6 @@
+C:\DataWin8\CSharp\Homework\MissCat2013\bin\Debug\MissCat2013.exe.config
+C:\DataWin8\CSharp\Homework\MissCat2013\bin\Debug\MissCat2013.exe
+C:\DataWin8\CSharp\Homework\MissCat2013\bin\Debug\MissCat2013.pdb
+C:\DataWin8\CSharp\Homework\MissCat2013\obj\Debug\MissCat2013.csprojResolveAssemblyReference.cache
+C:\DataWin8\CSharp\Homework\MissCat2013\obj\Debug\MissCat2013.exe
+C:\DataWin8\CSharp\Homework\MissCat2013\obj\Debug\MissCat2013.pdb

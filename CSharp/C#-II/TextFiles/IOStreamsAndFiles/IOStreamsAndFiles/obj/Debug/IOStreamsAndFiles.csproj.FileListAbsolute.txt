@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\bin\Debug\IOStreamsAndFiles.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\bin\Debug\IOStreamsAndFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\bin\Debug\IOStreamsAndFiles.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\obj\Debug\IOStreamsAndFiles.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\obj\Debug\IOStreamsAndFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\IOStreamsAndFiles\obj\Debug\IOStreamsAndFiles.pdb

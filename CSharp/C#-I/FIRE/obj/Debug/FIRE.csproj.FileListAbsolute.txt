@@ -1,0 +1,5 @@
+C:\DataWin8\CSharp\Homework\FIRE\bin\Debug\FIRE.exe.config
+C:\DataWin8\CSharp\Homework\FIRE\bin\Debug\FIRE.exe
+C:\DataWin8\CSharp\Homework\FIRE\bin\Debug\FIRE.pdb
+C:\DataWin8\CSharp\Homework\FIRE\obj\Debug\FIRE.exe
+C:\DataWin8\CSharp\Homework\FIRE\obj\Debug\FIRE.pdb

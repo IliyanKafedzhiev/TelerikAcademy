@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\03.ValidateExpression\bin\Debug\03.ValidateExpression.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\03.ValidateExpression\bin\Debug\03.ValidateExpression.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\03.ValidateExpression\bin\Debug\03.ValidateExpression.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\03.ValidateExpression\obj\Debug\03.ValidateExpression.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\String\String\03.ValidateExpression\obj\Debug\03.ValidateExpression.pdb

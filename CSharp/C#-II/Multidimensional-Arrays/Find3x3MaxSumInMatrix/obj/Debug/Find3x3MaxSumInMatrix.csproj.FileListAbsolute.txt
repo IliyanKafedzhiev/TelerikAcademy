@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\bin\Debug\Find3x3MaxSumInMatrix.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\bin\Debug\Find3x3MaxSumInMatrix.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\bin\Debug\Find3x3MaxSumInMatrix.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\obj\Debug\Find3x3MaxSumInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\obj\Debug\Find3x3MaxSumInMatrix.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Multidimensional-Arrays\Find3x3MaxSumInMatrix\obj\Debug\Find3x3MaxSumInMatrix.pdb

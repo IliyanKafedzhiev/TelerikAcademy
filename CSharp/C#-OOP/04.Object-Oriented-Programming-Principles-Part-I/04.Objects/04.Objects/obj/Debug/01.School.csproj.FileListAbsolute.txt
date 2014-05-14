@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\04.Objects\04.Objects\bin\Debug\04.Objects.exe.config
+C:\Users\Iliyan\Desktop\04.Objects\04.Objects\obj\Debug\04.Objects.exe
+C:\Users\Iliyan\Desktop\04.Objects\04.Objects\obj\Debug\04.Objects.pdb
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\04.Objects\bin\Debug\04.Objects.exe.config
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\04.Objects\obj\Debug\04.Objects.exe
+C:\Users\Iliyan\Dropbox\TelerikAcademy\C#-OOP\04.Object-Oriented-Programming-Principles-Part-I\04.Objects\04.Objects\obj\Debug\04.Objects.pdb

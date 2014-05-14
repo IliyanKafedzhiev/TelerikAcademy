@@ -1,0 +1,50 @@
+﻿div.header {
+    margin:5px 12%;
+}
+
+    div.header a {
+        font-family: Ebrima;
+        font-size:25px;
+        color:#5dbbff;
+    }
+
+.Table
+{
+    display: table;
+}
+.Title
+{
+    display: table-caption;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.Heading
+{
+    display: table-row;
+    font-weight: bold;
+    text-align: center;
+}
+.Row
+{
+    display: table-row;
+}
+.Cell
+{
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.Table#non-border .Cell {
+    border:none;
+}
+
+body > .Table > .Row > .Cell:last-of-type {
+    border:none;
+}
+body > .Table > .Row > .Cell > .Table > .Row > .Cell{
+    border:none;
+}

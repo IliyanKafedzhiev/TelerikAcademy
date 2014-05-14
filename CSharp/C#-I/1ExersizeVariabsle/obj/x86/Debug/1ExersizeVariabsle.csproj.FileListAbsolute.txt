@@ -1,0 +1,10 @@
+D:\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.exe
+D:\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.pdb
+D:\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.exe
+D:\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.exe
+C:\DataWin8\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\bin\Debug\1ExersizeVariabsle.pdb
+C:\DataWin8\CSharp\SecondHomeworkVariable\1ExersizeVariabsle\obj\x86\Debug\1ExersizeVariabsle.csprojResolveAssemblyReference.cache

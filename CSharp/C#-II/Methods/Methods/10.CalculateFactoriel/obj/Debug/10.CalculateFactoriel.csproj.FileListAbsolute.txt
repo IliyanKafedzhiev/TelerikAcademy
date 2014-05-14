@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.pdb

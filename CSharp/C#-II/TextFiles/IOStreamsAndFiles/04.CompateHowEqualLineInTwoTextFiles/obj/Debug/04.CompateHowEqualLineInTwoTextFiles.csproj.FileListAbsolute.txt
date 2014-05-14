@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\04.CompateHowEqualLineInTwoTextFiles\bin\Debug\04.CompateHowEqualLineInTwoTextFiles.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\04.CompateHowEqualLineInTwoTextFiles\bin\Debug\04.CompateHowEqualLineInTwoTextFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\04.CompateHowEqualLineInTwoTextFiles\bin\Debug\04.CompateHowEqualLineInTwoTextFiles.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\04.CompateHowEqualLineInTwoTextFiles\obj\Debug\04.CompateHowEqualLineInTwoTextFiles.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\04.CompateHowEqualLineInTwoTextFiles\obj\Debug\04.CompateHowEqualLineInTwoTextFiles.pdb

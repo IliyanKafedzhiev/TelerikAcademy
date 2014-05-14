@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\bin\Debug\05.FindMax2x2Matrix.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\bin\Debug\05.FindMax2x2Matrix.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\bin\Debug\05.FindMax2x2Matrix.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\obj\Debug\05.FindMax2x2Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\obj\Debug\05.FindMax2x2Matrix.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\TextFiles\IOStreamsAndFiles\05.FindMax2x2Matrix\obj\Debug\05.FindMax2x2Matrix.pdb

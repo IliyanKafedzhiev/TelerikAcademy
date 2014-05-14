@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\bin\Debug\03.Animals.exe.config
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\bin\Debug\03.Animals.exe
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\bin\Debug\03.Animals.pdb
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\obj\Debug\03.Animals.exe
+C:\Users\Iliyan\Desktop\04.Objects\03.Animals\obj\Debug\03.Animals.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+C:\Users\Iliyan\Documents\My Box Files\Iliqn'sData\CSharp\NumeralSystems\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb
