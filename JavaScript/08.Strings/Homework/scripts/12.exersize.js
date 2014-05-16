@@ -1,0 +1,27 @@
+﻿
+//the order of properties has to match the order in template!!!
+var people = [{ name: "Peter", age: 14 }, { name: "Pesho", age: 24, value: 134 }];
+
+//get html item
+var div = document.getElementById('list-item');
+var i = 0, k = 0, t = 0;
+
+//generate result html
+var resultHTML = '<ul id="' + div.id + '">';
+for (i = 0; i < people.length; i++)
+{
+    resultHTML += '<li>';
+    for (var child in people[i])
+    {
+        resultHTML += '<' + div.children[t].tagName.toLowerCase() + '>';
+        resultHTML += people[i][div.children[t].innerHTML.replace(/[-][{]/gi, '').replace(/[}][-]/gi, '')];
+        resultHTML += '</' + div.children[t].tagName.toLowerCase() + '>';
+        t++;
+    }
+    resultHTML += '</li>';
+}
+resultHTML += '</ul>';
+
+//replace the div html
+div.innerHTML = resultHTML;
+
