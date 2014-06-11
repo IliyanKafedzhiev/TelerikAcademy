@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Document Object Model - HTML Elements</title>	
+</head>
+<body>
+
+    <div>blablabla<div>First div</div></div>
+    <div><div>Second div</div>blablabla</div>
+	<script>
+        function getAllDivsNestedInDiv() // using query selector
+        {
+            var allDivs = document.querySelectorAll('div > div');
+            return allDivs;
+        }
+        function getAllDivsInDiv()
+        {
+            var result = [];
+            var allDivs = document.getElementsByTagName('div');
+
+            for (var div = 0; div < allDivs.length; div++)
+            {
+                if (allDivs[div].parentNode.nodeName === 'DIV')
+                {
+                    result.push(allDivs[div]);
+                }
+            }
+            return result;
+        }
+
+        var divsUsingQuerySelector = getAllDivsNestedInDiv();
+        var divsUsingGetTagByName = getAllDivsInDiv();
+        console.log("divsUsingQuerySelector :");
+        for (var i = 0 ; i < divsUsingQuerySelector.length;i++)
+        {
+            console.log(divsUsingQuerySelector[i].innerHTML);
+        }
+
+        console.log("divsUsingGetTagByName :");
+        for (var i = 0 ; i < divsUsingGetTagByName.length; i++)
+        {
+            console.log(divsUsingGetTagByName[i].innerHTML);
+        }
+    </script>
+</body>
+</html>

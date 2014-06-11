@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Document Object Model - getElementsBy</title>
+    <script src="scripts/string-extensions.js"></script>
+</head>
+<body>
+    <form>
+        <input id="u-name" type="text" value="Hello" />
+    </form>
+    <script>
+        function printInputValue()
+        {
+
+            var input = document.getElementById("u-name");
+            console.log(input.value);
+        }
+        printInputValue();
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Document Object Model - getElementsBy</title>
+    <script src="scripts/string-extensions.js"></script>
+</head>
+<body>
+    <form>
+        <input id="u-name" type="color" value="Hello" onchange="setColor(this.value);" onkeyup="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();" />
+    </form>
+    <script>
+        function setColor(color)
+        {
+            var input = document.getElementById("u-name");
+            document.body.style.backgroundColor = color;
+        }
+    </script>
+</body>
+</html>
